@@ -1,0 +1,196 @@
+
+.all{
+    background-color: rgba(0, 0, 0, 0.553);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-weight:  bolder;
+    font-size: 110%;
+
+ }
+
+
+.head{ 
+    background-color: rgba(206, 206, 206, 0.568);
+   
+}
+    
+
+.nav{
+background-size: contain;
+
+}
+
+
+    
+ 
+
+
+.zezo{
+  padding-right: 500px;
+
+
+ }
+
+.play{
+   padding-right:  80px;
+} 
+.won{
+    padding-right: 80px
+} 
+.drawn{
+    padding-right: 80px;
+} 
+.lost{
+    padding-right: 80px;
+} 
+.GF{
+    padding-right: 80px;
+} 
+.GA{
+    padding-right: 80px;
+} 
+.GD{
+    padding-right: 80px;
+} 
+.points{
+    color: brown;
+    padding-right: 80px;
+} 
+.img{  
+    display: flex;
+    padding-bottom: 5px;
+    /*   */
+    outline: none;
+}
+
+
+.mancity{color: rgb(17, 83, 4);
+    position: relative;
+  bottom: 1px;
+  left: 8px;
+  top: 5px;
+  text-decoration: none;
+
+}
+
+
+
+
+
+.arsinal{ 
+    color: rgb(17, 83, 4);
+    position: relative;
+    bottom: 10px;
+    text-decoration: none;
+
+}
+
+
+.newcastle{color: rgb(17, 83, 4);
+    padding-top: 5px;
+    text-decoration: none;
+}
+
+
+.Manchester{color: rgb(17, 83, 4);
+    padding-top: 5px;
+    text-decoration: none;
+}
+
+.Manchester-United{
+    padding-top: 5px;
+    text-decoration: none;
+    color: rgb(31, 30, 30);
+}
+
+.United{
+    padding-top: 5px;
+    text-decoration: none;
+    color: rgb(136, 7, 7);
+}
+
+
+
+
+.li{ color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 10px;
+    font-family:   'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.div{
+    background-color:rgb(68, 4, 74) ;
+    width: 400px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+
+.photo{
+   
+    position:absolute ;
+    left: 59%;
+
+    top: 150%;
+
+
+}
+
+.arsina{
+ background-color: rgba(206, 206, 206, 0.568);
+ 
+}
+.Mancheste{
+    background-color: rgba(206, 206, 206, 0.568);
+
+}
+.Tottenham{
+    background-color: rgba(206, 206, 206, 0.568);
+
+}
+.Aston{
+    background-color: rgba(206, 206, 206, 0.568);
+
+}
+.Fulham{
+    background-color: rgba(206, 206, 206, 0.568);
+
+}
+.Crystal{
+    background-color: rgba(206, 206, 206, 0.568);
+
+}
+.Bournemouth{
+    background-color: rgba(206, 206, 206, 0.568);
+
+}
+.Nottingham{
+    background-color: rgba(206, 206, 206, 0.568);
+
+}
+.Leicester{
+    background-color: rgba(206, 206, 206, 0.568);
+
+}
+.Southampton{
+    background-color: rgba(206, 206, 206, 0.568);
+
+}
+
+.BIGLEGUEA{
+    color: rgb(108, 18, 124);
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 210px;
+    padding-left: 10px;
+    position: absolute;
+    left: 480px;
+    top: 180%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.BIGLEGUEA:hover{
+    background-color: rgb(83, 10, 88);
+    color: antiquewhite;
+}
+
+

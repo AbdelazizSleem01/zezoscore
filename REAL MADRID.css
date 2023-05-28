@@ -1,0 +1,56 @@
+.back{
+    background-color: rgb(142, 142, 142);
+}
+
+
+
+
+.man{
+    padding-left: 400px;
+
+}
+
+.bage {
+
+   margin-left: 50px;
+}
+
+.players{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(4, 8, 10);
+}
+.color{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    border: 2px solid rgb(0, 0, 0);
+}
+.color:hover{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+.video{
+    padding-left: 350px;
+}
+.vide{
+    padding-left: 470px;
+    color: rgb(5, 161, 201);
+}
+.link{
+    color: rgb(32, 32, 32);
+   
+ font-size: 200%;
+}
+
+.primier{
+    font-size: 200%;
+    color: rgb(32, 32, 32);
+    padding-left: 35%;
+}
+.font{
+    font-size: 200%;
+    padding-left: 39%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(223, 169, 4)
+    
+}

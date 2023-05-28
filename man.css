@@ -1,0 +1,55 @@
+
+.back{
+    background-color: rgba(110, 111, 108, 0.274);
+}
+
+.man{
+    padding-left: 300px;
+
+}
+.iframe{
+   padding-left: 300px;
+}
+.bage {
+
+   margin-left: 50px;
+}
+
+.players{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(5, 161, 201);
+}
+.color{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    border: 2px solid rgb(0, 0, 0);
+}
+.color:hover{
+    color: rgb(0, 178, 201);
+    background-color: black;
+}
+
+
+.video{
+    padding-left: 350px;
+}
+.vide{
+    padding-left: 470px;
+    color: rgb(5, 161, 201);
+}
+.link{
+    color: dimgray;
+   
+ font-size: 200%;
+}
+
+.primier{
+    font-size: 200%;
+    color: dimgray;
+    padding-left: 35%;
+}
+.font{
+    font-size: 200%;
+    padding-left: 45%;
+    
+}

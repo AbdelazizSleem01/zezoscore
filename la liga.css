@@ -1,0 +1,150 @@
+
+.all{
+    background-color: rgba(230, 134, 24, 0.512);;
+   
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+   font-weight:  bolder;
+   
+}
+
+.head{ 
+    background-color: rgb(230, 134, 24);}
+    
+
+.nav{
+background-size: contain;
+
+}
+
+
+
+.zezo{
+  padding-right: 500px;
+ }
+
+.play{
+   padding-right:  80px;
+} 
+.won{
+    padding-right: 80px
+} 
+.drawn{
+    padding-right: 80px;
+} 
+.lost{
+    padding-right: 80px;
+} 
+.GF{
+    padding-right: 80px;
+} 
+.GA{
+    padding-right: 80px;
+} 
+.GD{
+    padding-right: 80px;
+} 
+.points{
+    padding-right: 80px;
+} 
+.img{
+    display: flex; padding-bottom: 5px;
+    text-decoration: none;
+}
+
+
+.mancity{color: rgb(14, 70, 3);
+    padding-top: 5px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+.arsinal{ color: rgb(14, 68, 3);
+    padding-top: 5px;
+    text-decoration: none;
+}
+
+
+.newcastle{color: rgb(13, 61, 3);
+    padding-top: 5px;
+    text-decoration: none;
+}
+
+
+.Manchester{color: rgb(13, 59, 3);
+    padding-top: 5px;
+    text-decoration: none;
+}
+
+.Manchester-United{
+    padding-top: 5px;
+    text-decoration: none;
+    color: rgb(31, 30, 30);
+}
+
+.United{
+    padding-top: 5px;
+    text-decoration: none;
+    color: rgb(136, 7, 7);
+}
+
+
+
+
+.li{ color: grey;
+    text-decoration: none;
+}
+
+
+.BARCA{
+    display: flex; padding-bottom: 5px;
+    background-color: rgb(230, 134, 24); ;
+
+}
+.color{
+    background-color: rgb(230, 134, 24);
+}
+
+.SOCIEDAD{
+    display: flex; padding-bottom: 5px;
+    background-color: rgb(230, 134, 24); ;
+
+}
+.BETIS{
+    display: flex; padding-bottom: 5px;
+    background-color: rgb(230, 134, 24); ;
+}
+.ATHLETIC {
+    display: flex; padding-bottom: 5px;
+    background-color: rgb(230, 134, 24); ;
+}
+.CAOSASUNA {
+    display: flex; padding-bottom: 5px;
+    background-color: rgb(230, 134, 24); ;
+}
+.MALLORCA {
+    display: flex; padding-bottom: 5px;
+    background-color: rgb(230, 134, 24); ;
+}
+.ALMERÍA {
+    display: flex; padding-bottom: 5px;
+    background-color: rgb(230, 134, 24); ;
+}
+.VALLADOLID {
+    display: flex; padding-bottom: 5px;
+    background-color: rgb(230, 134, 24); ;
+}
+
+.GETAFE {
+    display: flex; padding-bottom: 5px;
+    background-color: rgb(230, 134, 24); ;
+}
+
+.ELCHE{
+    display: flex; padding-bottom: 5px;
+    background-color: rgb(230, 134, 24); ;
+}
+

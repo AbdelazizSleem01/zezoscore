@@ -1,0 +1,88 @@
+.back{
+    background-color: rgb(142, 142, 142);
+}
+
+
+.figcaption{
+    padding-left: 280px; 
+    color: rgb(4, 121, 223); 
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    
+}
+
+.man{
+    padding-left: 200px;
+
+}
+
+.bage {
+
+   margin-left: 50px;
+}
+
+.players{
+    display: flex;
+    justify-content: space-between;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(4, 8, 10);
+}
+.color{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    border: 2px solid rgb(0, 0, 0);
+}
+.color:hover{
+    color: rgb(43, 220, 20);
+    background-color: black;
+}
+
+
+.video{
+    padding-left: 350px;
+}
+.vide{
+    padding-left: 250px;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.link{
+    color: rgb(32, 32, 32);
+   
+ font-size: 200%;
+}
+
+.primier{
+    
+    font-size: 200%;
+    color: rgb(32, 32, 32);
+    padding-left: 35%;
+}
+
+.font{
+    font-size: 200%;
+    padding-left: 45%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(223, 169, 4)
+    
+}
+.icon{
+    background-color: rgb(236, 236, 236);
+    display: flex;
+    width: 20px;
+
+
+
+}
+
+.backhome{
+    size: 20pc;
+    background-color: rgb(236, 236, 236);
+    
+    width: 22px;
+   position: relative;
+   left: 1250px;
+   bottom: 20px;
+}
